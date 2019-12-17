@@ -1,5 +1,5 @@
-package controller;
+package Model;
 
 public class Docente {
-
+	
 }
